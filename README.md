@@ -20,7 +20,6 @@
   </a>
 </div>
 
-# Skills
 <h1 align="center">Skills</h1>
 
 <div align="center">
